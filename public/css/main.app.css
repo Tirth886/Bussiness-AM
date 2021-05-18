@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins:400,500,300,200,700");
+body {
+    margin: 0;
+    background-color: white;
+    font-family: Poppins, "Helvetica Neue", sans-serif;
+}
+
+.panel-heading.note-toolbar {
+    background: #f9f9f961 !important;
+    box-shadow: inset -1px 0px 0px 1px #ccc !important;
+}
+
+.bg-custom {
+    background: #ecececdc !important;
+}
+
+.h-10 {
+    height: 250px;
+}
+
+.opacity-0 {
+    opacity: 0;
+}
+
+.z-index-1 {
+    z-index: 1;
+}
